@@ -1,0 +1,6 @@
+decorator==4.0.6
+ipython==2.4.1
+pexpect==4.0.1
+ptyprocess==0.5
+simplegeneric==0.8.1
+virtualenv==15.0.1
