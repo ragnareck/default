@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Default.iml" filepath="$PROJECT_DIR$/.idea/Default.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyneng-examples-exercises/.idea/pyneng-examples-exercises.iml" filepath="$PROJECT_DIR$/../pyneng-examples-exercises/.idea/pyneng-examples-exercises.iml" />
+    </modules>
+  </component>
+</project>
