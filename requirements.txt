@@ -1,5 +1,5 @@
 decorator==4.0.6
-ipython==2.4.1
+ipython==7.16.3
 pexpect==4.0.1
 ptyprocess==0.5
 simplegeneric==0.8.1
